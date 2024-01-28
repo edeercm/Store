@@ -31,6 +31,7 @@ import Sec30 from "./assets/Sec30"
 import Sec31 from "./assets/Sec31"
 import Sec32 from "./assets/Sec32"
 import Sec33 from "./assets/Sec33"
+import Sec34 from "./assets/Sec34"
 
 function App() {
   return <>
@@ -67,6 +68,7 @@ function App() {
     <Sec31 />
     <Sec32 />
     <Sec33 />
+    <Sec34 />
   </>
 }
 
