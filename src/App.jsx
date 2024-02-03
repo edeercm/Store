@@ -1,22 +1,22 @@
-import SecOne from "./assets/SecOne"
-import SecTwo from "./assets/SecTwo"
-import SecThree from "./assets/SecThree"
-import SecFour from "./assets/SecFour"
-import SecFive from "./assets/SecFive"
-import SecSix from "./assets/SecSix"
-import SecSeven from "./assets/SecSeven"
-import SecEight from "./assets/SecEight"
-import SecNine from "./assets/SecNine"
-import SecTen from "./assets/SecTen"
-import SecEleven from "./assets/SecEleven"
-import SecTwelve from "./assets/SecTwelve"
-import SecThirteen from "./assets/SecThirteen"
-import SecFourteen from "./assets/SecFourteen"
-import SecFifteen from "./assets/SecFifteen"
-import SecSixteen from "./assets/SecSixteen"
-import SecSeventeen from "./assets/SecSeventeen"
-import SecEighteen from "./assets/SecEighteen"
-import SecNineteen from "./assets/SecNineteen"
+import Sec1 from "./assets/Sec1"
+import Sec2 from "./assets/Sec2"
+import Sec3 from "./assets/Sec3"
+import Sec4 from "./assets/Sec4"
+import Sec5 from "./assets/Sec5"
+import Sec6 from "./assets/Sec6"
+import Sec7 from "./assets/Sec7"
+import Sec8 from "./assets/Sec8"
+import Sec9 from "./assets/Sec9"
+import Sec10 from "./assets/Sec10"
+import Sec11 from "./assets/Sec11"
+import Sec12 from "./assets/Sec12"
+import Sec13 from "./assets/Sec13"
+import Sec14 from "./assets/Sec14"
+import Sec15 from "./assets/Sec15"
+import Sec16 from "./assets/Sec16"
+import Sec17 from "./assets/Sec17"
+import Sec18 from "./assets/Sec18"
+import Sec19 from "./assets/Sec19"
 import Sec20 from "./assets/Sec20"
 import Sec21 from "./assets/Sec21"
 import Sec22 from "./assets/Sec22"
@@ -35,25 +35,25 @@ import Sec34 from "./assets/Sec34"
 
 function App() {
   return <>
-    <SecOne />
-    <SecTwo />
-    <SecThree />
-    <SecFour />
-    <SecFive />
-    <SecSix />
-    <SecSeven />
-    <SecEight />
-    <SecNine />
-    <SecTen />
-    <SecEleven />
-    <SecTwelve />
-    <SecThirteen />
-    <SecFourteen />
-    <SecFifteen />
-    <SecSixteen />
-    <SecSeventeen />
-    <SecEighteen />
-    <SecNineteen />
+    <Sec1 />
+    <Sec2 />
+    <Sec3 />
+    <Sec4 />
+    <Sec5 />
+    <Sec6   />
+    <Sec7 />
+    <Sec8 />
+    <Sec9 />
+    <Sec10 />
+    <Sec11 />
+    <Sec12 />
+    <Sec13 />
+    <Sec14 />
+    <Sec15 />
+    <Sec16 />
+    <Sec17 />
+    <Sec18 />
+    <Sec19 />
     <Sec20 />
     <Sec21 />
     <Sec22 />
